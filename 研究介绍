@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"> 
+	<title>研究介绍：）</title>
+	<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	
+</head>
+<body>
+<ul id="myTab" class="nav nav-tabs">
+	<li class="active">
+		<a href="#home" data-toggle="tab">
+			 研究简介
+		</a>
+	</li>
+	<li class="dropdown">
+		<a href="#" id="myTabDrop1" class="dropdown-toggle" 
+		   data-toggle="dropdown">概念解释
+			<b class="caret"></b>
+		</a>
+		<ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop1">
+			<li><a href="#利他行为" tabindex="-1" data-toggle="tab">利他行为</a></li>
+			<li><a href="#自我控制资源模型" tabindex="-1" data-toggle="tab">自我控制资源模型</a></li>
+			<li><a href="#自我损耗" tabindex="-1" data-toggle="tab">自我损耗</a></li>
+			<li><a href="#行动控制" tabindex="-1" data-toggle="tab">行动控制</a></li>
+			<li><a href="#受行为控制导向的自我控制资源分配模型" tabindex="-1" data-toggle="tab">受行为控制导向的自我控制资源分配模型</a></li>
+			<li><a href="#道德情绪" tabindex="-1" data-toggle="tab">道德情绪</a></li>
+		</ul>
+	</li>
+	
+	<li class="dropdown">
+		<a href="#" id="myTabDrop2" class="dropdown-toggle" 
+		   data-toggle="dropdown">实验一
+			<b class="caret"></b>
+		</a>
+		<ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop2">
+			<li><a href="#实验目的1" tabindex="-1" data-toggle="tab">实验目的1</a></li>
+			<li><a href="#实验材料1" tabindex="-1" data-toggle="tab">实验材料1</a></li>
+			<li><a href="#设计思路1" tabindex="-1" data-toggle="tab">设计思路1</a></li>
+			<li><a href="#被试选择1" tabindex="-1" data-toggle="tab">被试选择1</a></li>
+			<li><a href="#实验流程1" tabindex="-1" data-toggle="tab">实验流程1</a></li>
+			<li><a href="#数据分析及结果预期1" tabindex="-1" data-toggle="tab">数据分析及结果预期1</a></li>
+		</ul>
+	</li>
+	<li class="dropdown">
+		<a href="#" id="myTabDrop3" class="dropdown-toggle" 
+		   data-toggle="dropdown">实验二
+			<b class="caret"></b>
+		</a>
+		<ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop3">
+			<li><a href="#实验目的2" tabindex="-1" data-toggle="tab">实验目的2</a></li>
+			<li><a href="#实验材料2" tabindex="-1" data-toggle="tab">实验材料2</a></li>
+			<li><a href="#设计思路2" tabindex="-1" data-toggle="tab">设计思路2</a></li>
+			<li><a href="#被试选择2" tabindex="-1" data-toggle="tab">被试选择2</a></li>
+			<li><a href="#实验流程2" tabindex="-1" data-toggle="tab">实验流程2</a></li>
+			<li><a href="#数据分析及结果预期2" tabindex="-1" data-toggle="tab">数据分析及结果预期2</a></li>
+		</ul>
+	</li>
+	<li class="dropdown">
+		<a href="#" id="myTabDrop4" class="dropdown-toggle" 
+		   data-toggle="dropdown">实验三
+			<b class="caret"></b>
+		</a>
+		<ul class="dropdown-menu" role="menu" aria-labelledby="myTabDrop4">
+			<li><a href="#实验目的3" tabindex="-1" data-toggle="tab">实验目的3</a></li>
+			<li><a href="#实验材料3" tabindex="-1" data-toggle="tab">实验材料3</a></li>
+			<li><a href="#设计思路3" tabindex="-1" data-toggle="tab">设计思路3</a></li>
+			<li><a href="#被试选择3" tabindex="-1" data-toggle="tab">被试选择3</a></li>
+			<li><a href="#实验流程3" tabindex="-1" data-toggle="tab">实验流程3</a></li>
+			<li><a href="#数据分析及结果预期3" tabindex="-1" data-toggle="tab">数据分析及结果预期3</a></li>
+		</ul>
+	</li>
+</ul>
+<div id="myTabContent" class="tab-content">
+	<div class="tab-pane fade in active" id="home">
+		<p>本研究通过3个实验验证和探讨利他行为的自我控制过程模型。实验1采用自我损耗的双任务范式, 考察了自我损耗对利他行为水平的影响。实验 2 考察行动控制导向在自我损耗和利他行为之间关系的调节作用。实验 3 通过诱发道德情绪, 探讨了道德情绪对自我控制资源损耗个体的利他行为决策的作用。</p>
+	</div>
+	<div class="tab-pane fade" id="利他行为">
+		<p>利他行为是自愿向他人提供帮助而不求任何形式的回报的行为，并区别于助人行为。 从动机上看，有研究者提出，真正的利他行为以关心他人的利益为前提，且不期望在帮助他人后能获利。</p>
+	</div>
+	<div class="tab-pane fade" id="自我控制资源模型">
+		<p>自我控制资源模型认为个体的自我控制行为依赖于有限的心理资源，而这种资源在连续使用后会暂时耗竭，导致个体在后续任务中表现不佳。</p>
+	</div>
+	<div class="tab-pane fade" id="自我损耗">
+		<p>自我损耗是在自我控制资源模型框架下提出的一个重要概念，指在使用自我控制资源后出现的一种暂时的资源匮乏状态。这种匮乏状态容易导致自我控制失败。
+		</p>
+	</div>
+	<div class="tab-pane fade" id="行动控制">
+		<p>行动控制是指一种意志——个体为了确保达成目标状态必须排除过程中遇到的困难和障碍，这个过程就是行动控制。行动控制导向属于个体人格特质，分为两种不同风格，即行动导向和状态导向。研究发现，行动导向的个体能够继续分配资源来完成任务, 而状态导向的个体则倾向于停止努力以保存资源。 </p>
+		
+	</div>
+	<div class="tab-pane fade" id="受行为控制导向的自我控制资源分配模型">
+		<p>个体的自我控制资源是充足的, 即使资源被消耗了, 个体仍然有剩余资源可以进行自我控制, 但由于个体差异, 行动导向的人倾向于继续分配资源完成任务, 而状态导向的人倾向于停止努力,以保留有限的资源; 自我损耗对后续任务的影响不是固定的, 而是受到行动控制导向的调节作用; 资源虽然充足, 但仍然是有限的, 当资源被过度消耗时, 情境因素、动机因素等因素都无法再对任务表现施加影响。</p>
+		<p>基于该模型我们认为在实施利他行为的过程中, 自我控制资源因自我损耗而将会减少个体利他行为, 但这个过程受到行动控制导向的调节作用, 即在高损耗状态下, 行动导向的个体依然能坚持利他行为, 而状态导向的个体难以坚持利他行为; 在低损耗状态下, 行动导向和状态导向的个体都能做出更多的利他行为。</p>
+	</div>
+	<div class="tab-pane fade" id="道德情绪">
+		<p>一种社会性的情绪体验，这种体验主要发生在当个体根据已有的道德标准对自己或他人的思想和行为进行评价时。道德情绪是一种复合情绪，根据它的效价可以分为消极道德情绪和积极道德情绪。积极或消极道德情绪是由个体对自己的评价和认识引发的，因此又被称为自我意识情绪。
+当一个人的行为在违背或遵循其内部的道德行为标准时,就会引发这些道德相关情绪, 而情绪可以影响行为。积极道德情绪能激励个体做更多社会认可、符合社会规范的事, 然而消极道德情绪能够叫停人们正在进行的对他人不利的行为或对其他个体进行补偿(Tangney, Stuewig, & Mashek, 2007)。因此, 无论是积极道德情绪还是消极道德情绪都能促进他人导向行为和亲社会行为的发生(Hoffman, 2000)。  </p>
+	</div>
+	<div class="tab-pane fade" id="实验目的1">
+		<p>通过采用自我损耗的双任务范式，考察被试在自我控制资源损耗的情况下在独裁者任务中的表现，从而考察自我损耗对利他行为水平的影响。</p>
+	</div>
+	<div class="tab-pane fade" id="实验材料1">
+		<p>自我损耗实验材料
+stroop色词判断任务<br/>
+情绪评估量表（PANAS）
+————一共20个情绪词，采用5点计分<br/>
+利他行为水平测试<br/>
+独裁者任务<br/>
+————实验为分配任务, 告知被试该实验中所有参与者被随机分为提议者和回应者两种身份, 并对两种不同身份的被试随机配对。实际实验中所有被试均被告知他们被随机选为提议者, 有权对 10 个币进行分配(分给自己和对方), 回应方无权拒绝, 并告知被试双方不会见面, 且最后实验报酬将会与分配数额挂钩。</p>
+	</div>
+	<div class="tab-pane fade" id="设计思路1">
+		<p>设计思路：单因素被试间设计<br/>
+自变量：自我损耗水平（低损耗和高损耗；完成色词一致任务的是低损耗组；完成色词不一致任务的是高损耗组）<br/>
+因变量：利他行为（指标为独裁者任务中分配的代币数）<br/></p>
+	</div>
+	<div class="tab-pane fade" id="被试选择1">
+		<p>在校大学生60名，视力或矫正视力正常，无色盲，以往未参加类似实验。</p>
+	</div>
+	<div class="tab-pane fade" id="实验流程1">
+		<p>自我损耗任务<br/>
+填写情绪评估量表<br/>
+进行独裁者任务<br/></p>
+	</div>
+	<div class="tab-pane fade" id="数据分析及结果预期1">
+		<p>第一：检验自我控制资源损耗任务的有效性，对高损耗组和低损耗组的被试在Stroop任务中的错误数目进行独立样本t检验。预计高、低损耗组被试的错误数目存在显著差异，表明引发自我控制资源损耗的Stroop任务是有效的。<br/>
+第二：以独立样本t检验对比高、低损耗组被试在情绪量表上的得分差异，预计差异不显著，以保证高、低损耗组的被试在利他行为上的表现不受其他无关变量的干扰，而是由自我控制资源损耗影响。<br/>
+第三：以自我控制资源损耗程度为自变量，以独裁者任务中游戏分配数额为结果变量进行独立样本t检验。预计高损耗组被试在独裁者游戏中分配给他人的数额显著低于低损耗组被试，表明自我控制资源损耗会对利他行为产生影响：自我损耗程度高的个体确实比损耗程度低的个体表现出更少的利他行为。<br/>
+预期结论：自我损耗程度高的个体比损耗程度低的个体表现出更少的利他行为。<br/></p>
+	</div>
+	<div class="tab-pane fade" id="实验目的2">
+		<p>为了进一步探索利他行为的内部心理过程, 即自我损耗对利他行为产生影响的内部机制, 实验 2在 Beedie 和 Lane (2012)提出的资源分配模型基础上, 考察行动控制导向在自我损耗和利他行为之间关系的调节作用, 也为受行动控制导向调节的资源分配新模型提供利他研究领域的证据。  </p>
+	</div>
+	<div class="tab-pane fade" id="实验材料2">
+		<p>自我损耗材料（同实验一）<br/>
+行动控制导向量表<br/>
+情绪评估量表（PANAS，同实验一）<br/>
+利他行为水平测试（独裁者任务，同实验一）<br/></p>
+	</div>
+	<div class="tab-pane fade" id="设计思路2">
+		<p>设计思路：2×2两因素被试间实验设计<br/>
+自变量：行动控制导向类型（行动导向和状态导向）、自我损耗水平（高损耗和低损耗）<br/>
+因变量：利他行为水平（以独裁者任务中被试分配的代币数为指标）<br/></p>
+	</div>
+	<div class="tab-pane fade" id="被试选择2">
+		<p>在校大学生60名，视力或矫正视力正常，无色盲，以往未参加类似实验。</p>
+	</div>
+	<div class="tab-pane fade" id="实验流程2">
+		<p>填写行动控制导向量表<br/>
+自我损耗任务<br/>
+填写情绪评估量表<br/>
+进行独裁者任务<br/></p>
+	</div>
+	<div class="tab-pane fade" id="数据分析及结果预期2">
+		<p>第一：对高、低损耗组被试在行动控制导向量表上的得分进行独立样本t检验。预计无显著差异，说明两组被试在行动控制导向上是同质的。<br/>
+第二：对自我损耗和行动控制导向进行交互效应检验。预计两者的主效应和交互作用均显著。<br/>
+第三：进一步做简单效应检验，分析在不同行动控制导向上高、低损耗组被试的利他行为水平差异。预计在状态导向组，高损耗组的利他行为低于低损耗组；在行动导向组，高、低损耗组的被试的利他行为水平无显著差异。<br/>
+预期结论：行动控制导向调节了自我损耗和利他行为之间的关系。<br/></p>
+	</div>
+	<div class="tab-pane fade" id="实验目的3">
+		<p>探索道德情绪对自我控制资源损耗个体的利他行为决策的作用, 也从反面证明自我损耗效应的存在。  </p>
+	</div>
+	<div class="tab-pane fade" id="实验材料3">
+		<p>自我损耗材料（同实验一）<br/>
+诱发道德情绪<br/>
+作为线上实验的调整：让被试观看一段视频，分别诱发积极道德情绪、消极道德情绪和中性道德情绪​。<br/>
+情绪评估量表（PANAS，同实验一）<br/>
+利他行为水平测试（独裁者任务，同实验一）<br/></p>
+	</div>
+	<div class="tab-pane fade" id="设计思路3">
+		<p>设计思路：单因素被试间实验设计<br/>
+自变量：道德情绪状态（积极、消极、中性）<br/>
+因变量：利他行为水平（以独裁者任务中被试分配的代币数为指标）<br/></p>
+	</div>
+	<div class="tab-pane fade" id="被试选择3">
+		<p>在校大学生60名，视力或矫正视力正常，无色盲，以往未参加类似实验。</p>
+	</div>
+	<div class="tab-pane fade" id="实验流程3">
+		<p>自我损耗任务（三组被试均进行高损耗任务）<br/>
+道德情绪诱导<br/>
+填写情绪评估量表（检验道德情绪是否被诱导成功）<br/>
+进行独裁者任务<br/></p>
+	</div>
+	<div class="tab-pane fade" id="数据分析及结果预期3">
+		<p>第一：对不同道德情绪组的情绪评估结果进行方差分析，预计三组被试的积极情绪和消极情绪存在显著差异。对结果进行多重比较，以检验积极和消极道德情绪在实验中被诱导成功。<br/>
+第二：对三组被试在独裁者任务中分配的代币数进行方差分析和事后比较，以比较其利他行为水平。预计在高损耗情况下，诱发积极道德情绪的被试仍能分配给他人更多代币，而诱发消极道德情绪的被试的利他行为水平也会与诱发中性情绪的被试有显著差异。<br/>
+预期结论：道德情绪能够缓解自我损耗对利他行为的消极影响，其中积极道德情绪在作用最为明显，而消极道德情绪也在一定程度上缓解了自我损耗。<br/></p>
+	</div>
+</body>
+</html>
