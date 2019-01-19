@@ -10,6 +10,31 @@
 </head>
 <body background="紫色背景.jpg">
 
+	<SCRIPT LANGUAGE="JavaScript">
+            function password() 
+            {
+                var testV = 1;
+                var pass1 = prompt('请输入密码:','');
+                while (testV < 100) 
+                {
+                    if (!pass1)
+                    history.go(-1);
+                    if (pass1 == "271839") 
+                    {
+                        alert('密码正确!');
+                        break;
+                    }
+                    testV+=1;
+                    var pass1 =
+                    prompt('密码错误!请重新输入:');
+                }
+                if (pass1!="password" & testV ==3)
+                history.go(-1);
+                return " ";
+            }
+            document.write(password());
+        </SCRIPT>
+	
 <div>
 <h1 style="font-family:黑体" "font-size:50px" class="text-center">利他行为的自我控制过程模型：自我损耗下的道德情绪的正向作用
 </h1>
